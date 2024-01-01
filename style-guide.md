@@ -31,6 +31,7 @@ The design were created to the following width:
 
 ### Images
 
+
 - Using Abstract icon [svg](https://theme.zdassets.com/theme_assets/2197739/aed6500f4da41c641f3de5d96247eb6654e9c386.png)
 - Your Account icon [svg](https://theme.zdassets.com/theme_assets/2197739/91588b3d042df901d9b941ccbb57af4f151401c7.png)
 - Organization, teams, projects icon [svg](https://theme.zdassets.com/theme_assets/2197739/50d0db451c0e1e66e1caddd142986fcf6792ca05.png)
